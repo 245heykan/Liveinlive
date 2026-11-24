@@ -3163,53 +3163,93 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_79
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_79388&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: İstanbullu Gelin 87. Bölüm 'Final Bölümü'" tvg-logo="https://media.startv.com.tr/star-tv/images/2040314947a78a500eb28b4d.jpg" group-title="STARTV Dizileri",TR: İstanbullu Gelin 87. Bölüm 'Final Bölümü'
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_79513&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 1. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/2480c8e347139d08ea5912aa.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 1. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_44059&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 2. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/4f633f164020a3caa9025c8d.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 2. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_44127&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 3. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/a333348e4dd2a14854d9ed0a.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 3. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_44224&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 4. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/f4a52d0241b5b4a896ef6549.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 4. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_44305&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 5. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/4b1dfc174da78edc45d9c341.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 5. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_44396&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 6. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/534505e9484d88076902a059.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 6. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_44464&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 7. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/fb4c4c584f63a33d763d4c1c.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 7. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_44540&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 8. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/27c12f554be3832ac20d1975.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 8. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_44596&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 9. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/6ca1b75844349d3089f783e7.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 9. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_44634&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 10. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/2438caf04caa8b78cf4204c4.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 10. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_44692&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 11. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/c9b23453492f9dffa9e30739.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 11. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_44748&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 12. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/5f2a931a49cd9a8fb0ea5db2.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 12. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_44932&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 13. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/da1fc60e4d9e81bae7109057.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 13. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45129&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 14. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/653d7d804552a4c6e8f8fb92.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 14. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45303&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 15. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/3a8f664c4bf5af145b5722b0.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 15. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45477&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 16. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/5c023e594ed8a10e468754df.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 16. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45635&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 17. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/8e41f0fc4436af3afecd41c6.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 17. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_45866&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 18. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/887c89c94a8eaa977173b12e.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 18. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46013&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 19. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/f30233cc466e8a696d42d843.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 19. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46195&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 20. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/6c078ee14826a490d6e4f851.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 20. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46436&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 21. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/ed3bad6541a48477657fc069.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 21. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46628&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 22. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/66b536db4281863284d2b234.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 22. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46825&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 23. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/6550fbdf4268b5285c439c2e.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 23. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_46945&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 24. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/277f0a5c49319c48e9f70d9c.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 24. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47088&SecretKey=NtvApiSecret2014*&.m3u8
-#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Benim Hala Umudum Var 25. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/733e86a942a6abc3aa44f596.jpg" group-title="STARTV Dizileri",TR: Benim Hala Umudum Var 25. Bölüm
-https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_47289&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Yıldızlar Şahidim 1. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/78fd97984aec96e046083723.jpg" group-title="STARTV Dizileri",TR: Yıldızlar Şahidim 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_64912&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Yıldızlar Şahidim 2. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/b8b8fba648579890d8865a70.jpg" group-title="STARTV Dizileri",TR: Yıldızlar Şahidim 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65045&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Yıldızlar Şahidim 3. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/9ce05b7f4cce9839bcb1a226.jpg" group-title="STARTV Dizileri",TR: Yıldızlar Şahidim 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65145&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Yıldızlar Şahidim 4. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/03640abc4badb951b27395c6.jpg" group-title="STARTV Dizileri",TR: Yıldızlar Şahidim 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65291&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 1. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/c640fae4496a85a6ab3b10dd.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63194&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 2. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/16df304a4180a718917d7785.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63283&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 3. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/884b07004c999224c71b7988.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63413&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 4. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/6d6211ac4b27bea93dd3b973.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63510&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 5. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/4f7268734abea945433717f1.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63643&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 6. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/effaaec94e1f97950db9a0ea.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63774&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 7. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/d3782c1a44e3b09b1ef26bbe.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_63925&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 8. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/a405cec44adbaa3da3d08c99.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_64059&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 9. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/e6781ef248b3a87d53261041.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_64193&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 10.Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/086b582a416f9133f8ee8fb0.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 10.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_64416&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 11. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/bce078f24666b39257ce51af.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 11. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_64588&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 12. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/656d051d418990077eace5e0.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 12. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_64658&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 13. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/29a60d8043318a4ace61599b.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 13. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_64796&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 14. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/5f0be37546c1a9d9a28c8944.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 14. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_64907&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 15. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/f89d1cae429aa474b8cef3e6.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 15. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65043&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 16. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/d9eaae4f472b8fedafcc5ced.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 16. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65156&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 17. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/70ec26234834878225c1507d.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 17. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65298&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 18. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/c665b2f449c99db3b4776d75.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 18. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65420&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 19. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/f98c6aee4340bff4ac437ebc.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 19. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65547&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 20. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/97555a5d4976a437a64a231b.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 20. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65658&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 21. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/c245aa284834a11bbf5957bc.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 21. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65790&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 22. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/495ef1874eb0a994fcfbb6bf.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 22. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_65928&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 23.Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/ffa9832543a38e2b2ba390cc.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 23.Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_66053&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 24. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/0a80bda04d52a252657425db.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 24. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_66241&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 25. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/eb09ed384ea98117531d8257.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 25. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_66533&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Hayat Bazen Tatlıdır 26. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/81792c304bb8ad485f8d91a4.jpg" group-title="STARTV Dizileri",TR: Hayat Bazen Tatlıdır 26. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_66679&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Göç Zamanı 1. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/07b45dda41d7851b0ba102ee.jpg" group-title="STARTV Dizileri",TR: Göç Zamanı 1. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_59561&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Göç Zamanı 2. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/e3ce60ad4f82a136bca10337.jpg" group-title="STARTV Dizileri",TR: Göç Zamanı 2. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_59717&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Göç Zamanı 3. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/2eb765304597a123e1d87117.jpg" group-title="STARTV Dizileri",TR: Göç Zamanı 3. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_59882&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Göç Zamanı 4. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/0f8b86ab41b0a79894d3a399.jpg" group-title="STARTV Dizileri",TR: Göç Zamanı 4. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_60038&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Göç Zamanı 5. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/d014a0fc40b08529660c6c70.jpg" group-title="STARTV Dizileri",TR: Göç Zamanı 5. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_60171&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Göç Zamanı 6. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/79835cd5496abd376c2610af.jpg" group-title="STARTV Dizileri",TR: Göç Zamanı 6. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_60317&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Göç Zamanı 7. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/d2c0cb504f35a01febb7847c.jpg" group-title="STARTV Dizileri",TR: Göç Zamanı 7. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_60442&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Göç Zamanı 8. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/43a6a27a40588e50b8085817.jpg" group-title="STARTV Dizileri",TR: Göç Zamanı 8. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_60597&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Göç Zamanı 9. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/f3e8e98345c1aeef2bda08db.jpg" group-title="STARTV Dizileri",TR: Göç Zamanı 9. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_60705&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Göç Zamanı 10. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/e57a37fd4a489cb3e32c8332.jpg" group-title="STARTV Dizileri",TR: Göç Zamanı 10. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_60826&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Göç Zamanı 11. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/c055e7a54fdd9e9293a01164.jpg" group-title="STARTV Dizileri",TR: Göç Zamanı 11. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_60967&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Göç Zamanı 12. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/dfa8969e46db91d1dec59ee8.jpg" group-title="STARTV Dizileri",TR: Göç Zamanı 12. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_61095&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Göç Zamanı 13. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/3610a2e54901bce55959274c.jpg" group-title="STARTV Dizileri",TR: Göç Zamanı 13. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_61275&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Göç Zamanı 14. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/91b4cc1a4f71862c5cd1d71f.jpg" group-title="STARTV Dizileri",TR: Göç Zamanı 14. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_61454&SecretKey=NtvApiSecret2014*&.m3u8
+#EXTINF:-1 tvg-id="vod.tr" tvg-name="TR: Göç Zamanı 15. Bölüm" tvg-logo="https://media.startv.com.tr/star-tv/images/7a256b97482cbdc4089ec4c4.jpg" group-title="STARTV Dizileri",TR: Göç Zamanı 15. Bölüm
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=1&ReferenceId=StarTV_61539&SecretKey=NtvApiSecret2014*&.m3u8
